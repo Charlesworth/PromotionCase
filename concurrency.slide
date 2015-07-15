@@ -23,13 +23,21 @@ Alchemy Registry and Build Team
 
 Worked on the opensource buildpack and Bluemix
 
-.image ./Bluemix.png _ 500
+.image ./Bluemix.png _ 400
+
+.image ./WAS.png _ 150
 
 * 9 months later, ready for a new challenge
 
 .image ./alchemy.jpg _ 700
 
-* What I've learned
+* So far in Alchemy Registry and Build....
+
+.image ./containers.svg _ 200
+
+.image ./docker.png _ 200
+
+* What I've learned while at Hursley
 
 *Languages*
 - Go
@@ -38,10 +46,16 @@ Worked on the opensource buildpack and Bluemix
 - Ruby
 
 *Lessons*
-	Always code as if the guy who ends up maintaining your code will be a violent
-	psychopath who knows where you live. Code for readability.
 
-	John Wood
+Always code as if the guy who ends up maintaining your code will be a violent
+psychopath who knows where you live. Code for readability.
+_John_Wood_
+
+First, solve the problem. Then, write the code.
+_Paul_Graham_
+
+Simplicity is the ultimate sophistication.
+_Rob_Pike_
 
 * Where I'm going
 
