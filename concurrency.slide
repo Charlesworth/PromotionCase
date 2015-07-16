@@ -5,9 +5,7 @@ Alchemy Registry and Build Team
 
 * Background
 
-- BEng Robotics, Plymouth University
-- 13 month internship at Intel Corp
-- 2 years in the TA as a Royal Engineer
+.image ./background.png _ 700
 
 * Year 1: GBS Technical Consultant
 
@@ -39,20 +37,18 @@ Worked on the opensource buildpack and Bluemix
 
 * What I've learned while at Hursley
 
-*Languages*
-- Go
-- NodeJS
-- Java
-- Ruby
+.image ./langs.png _ 800
 
-*Lessons*
+* What I've learned while at Hursley
 
 Always code as if the guy who ends up maintaining your code will be a violent
 psychopath who knows where you live. Code for readability.
 _John_Wood_
 
+
 First, solve the problem. Then, write the code.
 _Paul_Graham_
+
 
 Simplicity is the ultimate sophistication.
 _Rob_Pike_
